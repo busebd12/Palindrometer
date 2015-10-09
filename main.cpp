@@ -1,3 +1,8 @@
+/*
+Author: Brendan Busey
+Date: 10/9/15
+*/
+
 #include <iostream>
 #include <algorithm>
 #include <vector>
